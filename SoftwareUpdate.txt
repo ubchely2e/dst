@@ -1,1 +1,1 @@
-ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
