@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
