@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Fix heatmaps width-height order bug (#7184)
