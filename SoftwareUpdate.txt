@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+fix for KeyError: 'epoch' (#48)
