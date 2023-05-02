@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Add YOLOv8 LibTorch C++ inference example (#7090)
