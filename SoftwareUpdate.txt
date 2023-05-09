@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Update Twitter icon in Docs (#7711)
