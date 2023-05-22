@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+OBB: Fix when training on zip data (#8680)
