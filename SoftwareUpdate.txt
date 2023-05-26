@@ -1,1 +1,1 @@
-add yolov10
+Update the heatmap module code + docs (#7045)
