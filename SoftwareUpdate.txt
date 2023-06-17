@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Fix Multi-GPU resume bug (#7328)
