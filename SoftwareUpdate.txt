@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Update pyproject.toml and Docs (#7274)
