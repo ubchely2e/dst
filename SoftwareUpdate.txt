@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
