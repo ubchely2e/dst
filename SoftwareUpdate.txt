@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Move Explorer tests to scheduled CI (#8305)
