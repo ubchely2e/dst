@@ -1,1 +1,1 @@
-ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
