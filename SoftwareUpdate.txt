@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+added badges (#45)
