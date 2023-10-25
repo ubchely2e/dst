@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Hold failed upload metrics and upload with next upload metrics (#8513)
