@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Add estimate_speed(region_color) parameter (#8285)
