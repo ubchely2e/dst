@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Updated SQL Query Plot Code (#8120)
