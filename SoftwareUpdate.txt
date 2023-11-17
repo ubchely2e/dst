@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
