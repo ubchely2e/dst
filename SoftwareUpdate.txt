@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Explorer with LanceDB, Actions and Docs updates (#7487)
