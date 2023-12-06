@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
