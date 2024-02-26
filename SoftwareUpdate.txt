@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Elaborate Train and Predict mode docs arguments (#8137)
