@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
