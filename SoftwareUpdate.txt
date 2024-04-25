@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+OBB: Fix plot_images (#7592)
